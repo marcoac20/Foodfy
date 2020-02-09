@@ -1,0 +1,148 @@
+@import "https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap";
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background: white;
+    font-family: 'Roboto-Regular', sans-serif;
+    padding: 0 230px;
+    max-width: 900px;
+}
+
+header {
+    padding-top: 36px;
+}
+
+.logo {
+    text-decoration: none;
+      
+}
+
+.logo img{
+    margin: 0px 100px 0px 0px;
+    padding: 0px 20px 0px 0px;
+}
+
+.link {
+    font-size: 16px;
+    color: #111111;
+    line-height: 19px; /*espaçamento entre as linhas de um texto*/
+    margin: 0 16px;
+    text-decoration: none;
+}
+
+.link:hover {
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    transition: all 200ms;
+}
+
+.home {
+    background: #FBDFDB;
+    border-radius: 30px;
+    margin-top: 36px;
+    width: 940px;
+    height: 366px;
+    
+    
+}
+
+#wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+   
+}
+
+.text_home {
+    padding-top: 117px;
+    padding-left: 60px;
+}
+
+.text_home h2 {
+    font-family: "Roboto-Bold", sans-serif;
+    font-size: 30px;
+    line-height: 38px;
+}
+
+.text_home p {
+    width: 316px;
+    padding-top: 10px;
+    font-family: "Roboto-Regular", sans-serif;
+    font-size: 18px;
+    color: #000000;
+    line-height: 28px;
+    opacity: 0.7;
+}
+
+.img_home img {
+    width: 216px;
+    height: 300px;
+    padding-top: 66px;
+    padding-left: 259px;
+    padding-right: 100px;
+}
+
+.titulo_card h2 {
+    font-family: "Roboto-Bold", sans-serif;
+    font-size: 24px;
+    color: #111111;
+    line-height: 28px;
+    padding-top: 50px;
+}
+
+/*===CARDS===*/
+
+.cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+    max-width: 900px;
+    width: 0 auto;
+}
+
+.card_image img {
+    margin-top: 20px;
+    width: 300px;
+    height: 140px;
+    border-radius: 15px;
+}
+
+.card_content p {
+    font-family: "Roboto-Regular", sans-serif;
+    font-size: 18px;
+    line-height: 21px;
+    color: #111111;
+    padding-top: 20px;
+}
+
+.card_info p {
+    font-family: "Roboto-Regular", sans-serif;
+    font-size: 14px;
+    line-height: 16px;
+    color: #777777;
+    padding-top: 5px;
+}
+
+.rodape {
+    background: #EEEEEE ;
+    width: 940px;
+    height: 62px;
+    margin-top: 50px;
+    float: initial;
+    
+}
+
+.rodape p {
+    font-family: "Roboto-Regular", sans-serif;
+    font-size: 14px;
+    line-height: 16px;
+    color: #999999;
+    padding: 23px 0;
+    text-align: center;
+
+}
+
