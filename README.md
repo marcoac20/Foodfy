@@ -1,52 +1,22 @@
-<h1 align="center">
-    <img alt="Launchbase" src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" width="400px" />
-</h1>
+# Curso LaunchBase # Desafio Foodly
 
-<h3 align="center">
-  Desafios Módulo 2 - Iniciando no Front-end
-</h3>
+### Sobre o desafio 
 
-<blockquote align="center">“Faça seu melhor, mas sempre com prazo de entrega!”</blockquote>
+Nesse desafio você vai construir um site completo para uma empresa de receitas chamada Foodfy.
 
-<p align="center">
+### Dicas e regras
+1 - Dê uma boa olhada no material extra de CSS & HTML, esse material pode conter dicas importantes para você construir o layout desse website;
+2 - Na página de receitas, quando o usuário clica em uma receita, um modal deve aparecer em tela contendo as mesmas informações da receita que ele clicou;
 
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%23F8952D">
-  </a>
+## Criando Layout Home, Modal Receitas
 
-  <a href="LICENSE" >
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
-  </a>
+![desafio-02-praticando-css-home](https://user-images.githubusercontent.com/56804642/74107271-d3b9fa80-4b4c-11ea-8780-7fa15331b42f.png)
 
-</p>
+![modal](https://user-images.githubusercontent.com/56804642/74107329-5f338b80-4b4d-11ea-8eae-63b38e7af43f.jpg)
 
-<p align="center">
-  <a href="#file_cabinet-materiais">Materiais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-desafios">Desafios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
-  <a href="#memo-licença">Licença</a>
-</p>
+## Criando Layout Sobre e Receitas 
 
-## :file_cabinet: Materiais
+![desafio-02-praticando-css-sobre](https://user-images.githubusercontent.com/56804642/74110783-29eb6580-4b6e-11ea-99f5-98a77009e682.png)
 
-- [Elementos principais do HTML](materiais/html.pdf)
-- [Propriedades importantes no CSS](materiais/css.pdf)
+![desafio-02-praticando-css-receitas](https://user-images.githubusercontent.com/56804642/74110785-2ce65600-4b6e-11ea-892a-0104eae48b03.png)
 
-## :rocket: Desafios
-
-- [Primeiro HTML](desafios/02-1-primeiro-html.md)
-- [Página de descrição](desafios/02-2-pagina-descricao.md)
-- [Página de cursos e iframe](desafios/02-3-pagina-cursos-e-iframe.md)
-- [Construindo Foodfy](desafios/02-foodfy.md)
-
-## :calendar: Entrega
-
-Esses desafios **não precisam ser entregues** e não receberão correção. Após concluí-los, adicionar esses códigos ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
-
----
-
-Feito com :purple_heart: by [Rocketseat](https://rocketseat.com.br) :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
