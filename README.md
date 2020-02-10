@@ -4,9 +4,8 @@
 
 Nesse desafio você vai construir um site completo para uma empresa de receitas chamada Foodfy.
 
-### Dicas e regras
-1 - Dê uma boa olhada no material extra de CSS & HTML, esse material pode conter dicas importantes para você construir o layout desse website;
-2 - Na página de receitas, quando o usuário clica em uma receita, um modal deve aparecer em tela contendo as mesmas informações da receita que ele clicou;
+### Regras
+1 - Na página de receitas, quando o usuário clica em uma receita, um modal deve aparecer em tela contendo as mesmas informações da receita que ele clicou;
 
 ## Criando Layout Home, Modal Receitas
 
