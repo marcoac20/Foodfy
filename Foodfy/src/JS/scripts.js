@@ -8,7 +8,7 @@ for (let card of cards){
         const author =card.querySelector(".author").innerHTML
 
         modalOverlay.classList.add('active')
-        modalOverlay.querySelector("img").src = `/assets/${imgId}`;
+        modalOverlay.querySelector("img").src = `../assets/${imgId}`;
 
         modalOverlay.querySelector(".modal-title").innerHTML = title
         modalOverlay.querySelector(".modal-author").innerHTML = author
